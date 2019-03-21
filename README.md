@@ -10,7 +10,7 @@
 
 #### Parameter
 
-```json
+```
 {
   "id_token": String,
   "name": String,
@@ -24,9 +24,9 @@
 
 #### Response
 
-```
+```json
 {
-	"access_token": String
+	"access_token": "hogehgoehgoheogeafoeiaefwaf"
 }
 ```
 
@@ -40,7 +40,7 @@
 
 **Parameter**
 
-```json
+```
 {
   "id_token": string
 }
@@ -52,7 +52,7 @@
 
 ```json
 {
-  "access_token": string
+  "access_token": "aegheihgaohgoejofjoejaoafj"
 }
 ```
 
@@ -66,7 +66,7 @@
 
 **Parameter**
 
-```json
+```
 {
 	"image1": Data,
 	"image2": Data,
@@ -97,7 +97,7 @@
 
 **Response**
 
-```json
+```
 {
   "id": 1,
   "name": "ともき",
@@ -117,7 +117,7 @@
 
 **Parameter**
 
-```json
+```
 {
   "name": "ともき",
   "organizer": "フリーランス",
@@ -147,7 +147,6 @@
 **退会**
 
 
-
 **Response**
 
 ```json
@@ -169,7 +168,7 @@
 
 **Parameter**
 
-```json
+```
 {
   "image": Data
 }

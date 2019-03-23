@@ -16,7 +16,7 @@
   "name": String,
   "organizer": String,
   "age": String,
-  "sex": String
+  "gender": String
 }
 ```
 
@@ -103,7 +103,7 @@
   "name": "ともき",
   "organizer": "フリーランス",
   "age": "2019/12/12",
-  "sex": "man"
+  "gender": "man"
 }
 ```
 
@@ -122,7 +122,7 @@
   "name": "ともき",
   "organizer": "フリーランス",
   "age": "2019/12/12",
-  "sex": "man"
+  "gender": "man"
 }
 ```
 
@@ -136,7 +136,7 @@
   "name": "ともき",
   "organizer": "フリーランス",
   "age": "2019/12/12",
-  "sex": "man"
+  "gender": "man"
 }
 ```
 
@@ -184,6 +184,6 @@
   "name": "ともき",
   "organizer": "フリーランス",
   "age": "2019/12/12",
-  "sex": "man"
+  "gender": "man"
 }
 ```

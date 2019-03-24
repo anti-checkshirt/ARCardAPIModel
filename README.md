@@ -14,7 +14,7 @@
 {
   "id_token": String,
   "name": String,
-  "organizer": String,
+  "occupation": String,
   "age": String,
   "gender": String
 }

@@ -15,7 +15,7 @@
   "id_token": String,
   "name": String,
   "occupation": String,
-  "age": String,
+  "birth_year": String,
   "gender": String
 }
 ```
@@ -102,7 +102,7 @@
   "id": 1,
   "name": "ともき",
   "organizer": "フリーランス",
-  "age": "2019/12/12",
+  "birth_year": "2019/12/12",
   "gender": "man"
 }
 ```
@@ -121,7 +121,7 @@
 {
   "name": "ともき",
   "organizer": "フリーランス",
-  "age": "2019/12/12",
+  "birth_year": "2019/12/12",
   "gender": "man"
 }
 ```
@@ -135,7 +135,7 @@
   "id": 1,
   "name": "ともき",
   "organizer": "フリーランス",
-  "age": "2019/12/12",
+  "birth_year": "2019/12/12",
   "gender": "man"
 }
 ```
@@ -183,7 +183,7 @@
   "id": 1,
   "name": "ともき",
   "organizer": "フリーランス",
-  "age": "2019/12/12",
+  "birth_year": "2019/12/12",
   "gender": "man"
 }
 ```
